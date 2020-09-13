@@ -1,0 +1,1 @@
+ffmpeg -i samsa.mp4 -i 1.mp4 -c copy -shortest output.mp4
